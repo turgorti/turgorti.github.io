@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turgorti.github.io/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/app/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/assets/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/css/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/data/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/includes/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/item/sitemap.turgorti.gz
+Sitemap: https://turgorti.github.io/src/sitemap.turgorti.gz
